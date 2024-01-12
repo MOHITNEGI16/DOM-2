@@ -29,7 +29,7 @@
     border-radius: 50px;
     /* top: 10px; */
     filter: grayscale(40%);
-    background-image: url(/anime/83a0f711-6b4a-4ec8-bb95-81a7d726.jpg);    
+    background-image: url('./anime/83a0f711-6b4a-4ec8-bb95-81a7d726.jpg');    
     background-size: cover;
     position: relative;
 }
